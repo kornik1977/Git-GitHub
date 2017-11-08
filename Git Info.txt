@@ -1,0 +1,23 @@
+
+
+2. Nice commands
+rm -rf .git -> Remove a repo in git
+touch file. -> create a file
+git status -> show objects in current directory
+
+
+1. How to push repo into GitHub?
+
+Step by step do this:
+
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin <project url>
+git push -f origin master
+
+
+
+
+
+
