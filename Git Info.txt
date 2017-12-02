@@ -1,5 +1,6 @@
 3. Nice links
 https://github.com/dilyand/coursera - great example of perfect README.md file and a friendly for a reader script (Coursera)
+https://git-scm.com/book/en/v2 - Git Tutorial
 
 2. Nice commands
 rm -rf .git -> Remove a repo in git
