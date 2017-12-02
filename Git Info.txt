@@ -4,16 +4,15 @@
 rm -rf .git -> Remove a repo in git
 touch file. -> create a file
 git status -> show objects in current directory
+git clone URL -> clones the Repo from GitHub and generates a master branch in the place where data was downloaded
 
 
 1. How to push repo into GitHub?
-
 Step by step do this:
-
-git init
-git add .
+git init - new (empty) Repo is created - optional
+git add "file url" (. adds all)
 git commit -m "Initial commit"
-git remote add origin <project url>
+git remote add origin <project url>  - connects local Repo with Rep on GitHub - optional
 git push -f origin master
 
 
